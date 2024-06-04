@@ -1,5 +1,7 @@
 # LearnUp - learning management system  
 
+## Overview ##
+
 The Learning Management System (LMS) is a web-based application designed to facilitate the educational process by providing an online platform for teachers and students. The application supports two main roles:
 
 * Teacher: Teachers can post assignments, review student submissions, and accept or reject these submissions.
